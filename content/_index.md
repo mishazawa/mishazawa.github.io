@@ -1,4 +1,4 @@
 +++
-title = "Animation blog"
+title = "Fuck this world blog"
 draft = false
 +++
